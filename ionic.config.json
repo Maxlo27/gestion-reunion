@@ -1,0 +1,8 @@
+{
+  "name": "Gestion-reunion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9de6b601"
+}
