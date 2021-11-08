@@ -1,0 +1,53 @@
+<ion-content>
+    <ion-header class="ion-no-border">
+        <ion-toolbar>
+            <ion-buttons slot="start">
+                <ion-menu-button></ion-menu-button>
+            </ion-buttons>
+        </ion-toolbar>
+    </ion-header>
+
+    <div class="about-header">
+        <!-- Instead of loading an image each time the select changes, use opacity to transition them -->
+        <div class="about-image madison" [ngStyle]="location === 'madison' && {'opacity': '1'}"></div>
+        <div class="about-image austin" [ngStyle]="location === 'austin' && {'opacity': '1'}"></div>
+        <div class="about-image chicago" [ngStyle]="location === 'chicago' && {'opacity': '1'}"></div>
+        <div class="about-image seattle" [ngStyle]="location === 'seattle' && {'opacity': '1'}"></div>
+    </div>
+
+    <div class="about-info">
+        <h3 class="ion-padding-top ion-padding-start">Réunion</h3>
+        <ion-item>
+            <ion-label position="stacked" color="primary">Titre</ion-label>
+            <ion-input name="username" type="text">
+            </ion-input>
+        </ion-item>
+        <ion-list lines="none">
+            <ion-item>
+                <ion-label>
+                    Lieu
+                </ion-label>
+                <ion-select [(ngModel)]="location" [interfaceOptions]="selectOptions">
+                    <ion-select-option value="madison">Madison, WI</ion-select-option>
+                    <ion-select-option value="austin">Austin, TX</ion-select-option>
+                    <ion-select-option value="chicago">Chicago, IL</ion-select-option>
+                    <ion-select-option value="seattle">Seattle, WA</ion-select-option>
+                </ion-select>
+            </ion-item>
+            <ion-item>
+                <ion-label>
+                    Date
+                </ion-label>
+                <ion-datetime displayFormat="MMM DD, YYYY" max="2056" [(ngModel)]="conferenceDate">
+                </ion-datetime>
+            </ion-item>
+        </ion-list>
+        <ion-list lines="none">
+            <ion-item>
+                <ion-button>
+                    Creer
+                </ion-button>
+            </ion-item>
+        </ion-list>
+    </div>
+</ion-content>

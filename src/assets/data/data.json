@@ -1,0 +1,451 @@
+{
+    "schedule": [{
+        "date": "2047-05-17",
+        "groups": [{
+                "time": "8:00 am",
+                "sessions": [{
+                    "name": "Déjeuner",
+                    "timeStart": "8:00 am",
+                    "timeEnd": "9:00 am",
+                    "location": "Salle à manger",
+                    "tracks": ["Nourriture"],
+                    "id": "1"
+                }]
+            },
+            {
+                "time": "9:15 am",
+                "sessions": [{
+                        "name": "Premier pas avec ionic",
+                        "location": "Hall 2",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Abdou Gueye"],
+                        "timeStart": "9:30 am",
+                        "timeEnd": "9:45 am",
+                        "tracks": ["Ionic"],
+                        "id": "2"
+                    },
+                    {
+                        "name": "Outillage ionic",
+                        "location": "Sal de bal exclusive",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Insa Faye"],
+                        "timeStart": "9:45 am",
+                        "timeEnd": "10:00 am",
+                        "tracks": ["Outils"],
+                        "id": "3"
+                    },
+                    {
+                        "name": "Uniersite de ioni",
+                        "location": "Hall 3",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Khadim Fall"],
+                        "timeStart": "9:15 am",
+                        "timeEnd": "9:30 am",
+                        "tracks": ["Ionic"],
+                        "id": "4"
+                    }
+                ]
+            },
+            {
+                "time": "10:00 am",
+                "sessions": [{
+                        "name": "Migration vers Ionic",
+                        "location": "Hall 1",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Aicha BA", "Amadoiu Sy"],
+                        "timeStart": "10:00 am",
+                        "timeEnd": "10:15 am",
+                        "tracks": ["Ionic"],
+                        "id": "5"
+                    },
+                    {
+                        "name": "Quoi de neuf dans angular",
+                        "location": "Hall 3",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Mauatte Lo"],
+                        "timeStart": "10:15 am",
+                        "timeEnd": "10:30 am",
+                        "tracks": ["Angular"],
+                        "id": "6"
+                    },
+                    {
+                        "name": "L'evolution de ionic",
+                        "location": "Hall 2",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Astou Dione ", "Ya Awa"],
+                        "timeStart": "10:15 am",
+                        "timeEnd": "10:30 am",
+                        "tracks": ["Design"],
+                        "id": "7"
+                    },
+                    {
+                        "name": "Ionic Pro",
+                        "location": "Grande salle de bal A",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Aissatou Diop"],
+                        "timeStart": "10:45 am",
+                        "timeEnd": "11:00 am",
+                        "tracks": ["Services"],
+                        "id": "8"
+                    }
+                ]
+            },
+            {
+                "time": "11:00 am",
+                "sessions": [{
+                        "name": "Atelier",
+                        "location": "Hall 1",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Hawa Deme", "Malick Gueye"],
+                        "timeStart": "11:00 am",
+                        "timeEnd": "11:45 am",
+                        "tracks": ["Atelier"],
+                        "id": "9"
+                    },
+                    {
+                        "name": "InterAction communautaire",
+                        "location": "Hall 3",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Malick Gueye", "Moussa Ndiaye"],
+                        "timeStart": "11:30 am",
+                        "timeEnd": "11:50 am",
+                        "tracks": ["Communication"],
+                        "id": "10"
+                    },
+                    {
+                        "name": "Navigation ",
+                        "location": "Grande salle de bal A",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Fama Sy", "Amy Thiaw"],
+                        "timeStart": "11:30 am",
+                        "timeEnd": "12:00 pm",
+                        "tracks": ["Navigation"],
+                        "id": "11"
+                    }
+                ]
+            },
+            {
+                "time": "12:00 pm",
+                "sessions": [{
+                    "name": "Repas",
+                    "location": "Dining Hall",
+                    "description": "Venez déjeuner avec tous les fanatiques ioniques et parlez de tout ce qui est ionique",
+                    "timeStart": "12:00 pm",
+                    "timeEnd": "1:00 pm",
+                    "tracks": ["Food"],
+                    "id": "12"
+                }]
+            },
+            {
+                "time": "1:00 pm",
+                "sessions": [{
+                        "name": "Les entreprises",
+                        "location": "Hall 1",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Youssef Sagna"],
+                        "timeStart": "1:00 pm",
+                        "timeEnd": "1:15 pm",
+                        "tracks": ["Communication"],
+                        "id": "13"
+                    },
+                    {
+                        "name": "Mileu",
+                        "location": "Hall 1",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Marie Diop"],
+                        "timeStart": "1:15 pm",
+                        "timeEnd": "1:30 pm",
+                        "tracks": ["Communication"],
+                        "id": "14"
+                    },
+                    {
+                        "name": "Groupe",
+                        "location": "Grand Ballroom B",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Moussa Mara", "Ndiaye Seye"],
+                        "timeStart": "1:30 pm",
+                        "timeEnd": "2:00 pm",
+                        "tracks": ["Services"],
+                        "id": "15"
+                    }
+                ]
+            },
+            {
+                "time": "2:00 pm",
+                "sessions": [{
+                        "name": "Les Notificatons",
+                        "location": "Hall 2",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Ameth Lo", "Modou Niang"],
+                        "timeStart": "2:00 pm",
+                        "timeEnd": "2:30 pm",
+                        "tracks": ["Services"],
+                        "id": "16"
+                    },
+                    {
+                        "name": "Documentation",
+                        "location": "Grande salle de bal B",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Aliou Lo"],
+                        "timeStart": "2:30 pm",
+                        "timeEnd": "2:45 pm",
+                        "tracks": ["Documentation"],
+                        "id": "17"
+                    },
+                    {
+                        "name": "UX",
+                        "location": "Hall 3",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Isabella Sanka", "Ellie Dasylva"],
+                        "timeStart": "2:45 pm",
+                        "timeEnd": "3:00 pm",
+                        "tracks": ["Design"],
+                        "id": "18"
+                    }
+                ]
+            },
+            {
+                "time": "3:00",
+                "sessions": [{
+                        "name": "Les VIP",
+                        "location": "Hall 1",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Malick Gueye"],
+                        "timeStart": "3:00 pm",
+                        "timeEnd": "3:30 pm",
+                        "tracks": ["VIP"],
+                        "id": "19"
+                    },
+                    {
+                        "name": "Mobile",
+                        "location": "Hall 2",
+                        "description": "Les appareils mobiles et les navigateurs sont désormais suffisamment avancés pour que les développeurs puissent créer des applications mobiles de qualité native à l'aide de technologies Web ouvertes telles que HTML5, Javascript et CSS. Dans cette conférence, nous expliquerons pourquoi et comment nous avons créé Ionic, les décisions de conception prises lors de l'intégration d'Ionic à Angular et les considérations de performances pour les plates-formes mobiles que notre équipe a dû surmonter. Nous passerons également en revue les fonctionnalités Ionic nouvelles et à venir et parlerons des pouvoirs et des avantages cachés de la combinaison du développement d'applications mobiles et d'Angular.",
+                        "speakerNames": ["Assane Faye"],
+                        "timeStart": "3:30 pm",
+                        "timeEnd": "3:45 pm",
+                        "tracks": ["Navigation"],
+                        "id": "20"
+                    }
+                ]
+            }
+        ]
+    }],
+
+    "speakers": [{
+            "name": "Malick Gueye",
+            "profilePic": "/assets/img/speakers/bear.jpg",
+            "instagram": "Milk",
+            "twitter": "Milk",
+            "about": "Malick Gueye est un informatitien et client du rest au depuis des années",
+            "title": "Cuisinier Chef",
+            "location": "Everywhere",
+            "email": "malick@gmail.com",
+            "phone": "774379105",
+            "id": "1"
+        },
+        {
+            "name": "Hawa Deme",
+            "profilePic": "/assets/img/speakers/cheetah.jpg",
+            "instagram": "HawaaDeme",
+            "twitter": "HawaaDeme",
+            "about": "Hawa est un informatitien et client du restau depuis des années.",
+            "title": "Serveur",
+            "location": "Everywhere",
+            "email": "hawa@example.com",
+            "phone": "778453476",
+            "id": "2"
+        },
+        {
+            "name": "Maguatte Lo",
+            "profilePic": "/assets/img/speakers/duck.jpg",
+            "instagram": "MaguetteLo",
+            "twitter": "MaguetteLo",
+            "about": "Maguatte est un informatitien et client du restau depuis des années..",
+            "title": "Cuisinier",
+            "location": "Everywhere",
+            "email": "maguatte@example.com",
+            "phone": "783426754",
+            "id": "3"
+        },
+        {
+            "name": "Amy Faye",
+            "profilePic": "/assets/img/speakers/eagle.jpg",
+            "instagram": "AmtFaye",
+            "twitter": "AmtFaye",
+            "about": "Amy est un informatitien et client du restau depuis des années.",
+            "title": "Serveur",
+            "location": "Everywhere",
+            "email": "maguete@example.com",
+            "phone": "76367487",
+            "id": "4"
+        },
+        {
+            "name": "Moussa Ndiaye",
+            "profilePic": "/assets/img/speakers/elephant.jpg",
+            "instagram": "MoussaNdiaye",
+            "twitter": "MoussaNdiaye",
+            "about": "Moussa est un serveur trés expérimenté du restau depuis des années.",
+            "title": "Serveur",
+            "location": "Everywhere",
+            "email": "ellie@example.com",
+            "phone": "+1-541-754-3010",
+            "id": "5"
+        },
+        {
+            "name": "Astou Dione",
+            "profilePic": "/assets/img/speakers/giraffe.jpg",
+            "instagram": "AstouDione",
+            "twitter": "AstouDione",
+            "about": "Astou est une serveuse dans le restau.",
+            "title": "Serveur",
+            "location": "Everywhere",
+            "email": "astouDione@example.com",
+            "phone": "754637865",
+            "id": "6"
+        },
+        {
+            "name": "Amadou Sy",
+            "profilePic": "/assets/img/speakers/iguana.jpg",
+            "instagram": "AmadouSy",
+            "twitter": "AmadouSy",
+            "about": "Amadou Sy est seru=veur au niveau du restaurant.",
+            "title": "Serveur",
+            "location": "Everywhere",
+            "email": "isabella@example.com",
+            "phone": "774356278",
+            "id": "7"
+        },
+        {
+            "name": "Papy Niang ",
+            "profilePic": "/assets/img/speakers/kitten.jpg",
+            "instagram": "PapyNiang",
+            "twitter": "PapyNiang",
+            "about": "Papy Niang est le trésorier durestaurant.",
+            "title": "Developer Advocate",
+            "location": "Everywhere",
+            "email": "karl@example.com",
+            "phone": "+1-541-754-3010",
+            "id": "8"
+        },
+        {
+            "name": "Lionel Lion",
+            "profilePic": "/assets/img/speakers/lion.jpg",
+            "instagram": "ionicframework",
+            "twitter": "ionicframework",
+            "about": "Lionel is a Lion. Lionel's interests include lizards and mathematics.",
+            "title": "Developer Advocate",
+            "location": "Everywhere",
+            "email": "lionel@example.com",
+            "phone": "+1-541-754-3010",
+            "id": "9"
+        },
+        {
+            "name": "Molly Mouse",
+            "profilePic": "/assets/img/speakers/mouse.jpg",
+            "instagram": "ionicframework",
+            "twitter": "ionicframework",
+            "about": "Molly is a Mouse. Molly's interests include werewolves and magic.",
+            "title": "Software Engineer",
+            "location": "Everywhere",
+            "email": "molly@example.com",
+            "phone": "+1-541-754-3010",
+            "id": "10"
+        },
+        {
+            "name": "Paul Puppy",
+            "profilePic": "/assets/img/speakers/puppy.jpg",
+            "instagram": "ionicframework",
+            "twitter": "ionicframework",
+            "about": "Paul is a Puppy. Paul's interests include maps, whales, and dragons.",
+            "title": "Software Engineer",
+            "location": "Everywhere",
+            "email": "paul@example.com",
+            "phone": "+1-541-754-3010",
+            "id": "11"
+        },
+        {
+            "name": "Rachel Rabbit",
+            "profilePic": "/assets/img/speakers/rabbit.jpg",
+            "instagram": "ionicframework",
+            "twitter": "ionicframework",
+            "about": "Rachel is a Rabbit. Rachel's interests include clowns, skeletons, and yo-yos.",
+            "title": "Senior Software Engineer",
+            "location": "Everywhere",
+            "email": "rachel@example.com",
+            "phone": "+1-541-754-3010",
+            "id": "12"
+        },
+        {
+            "name": "Ted Turtle",
+            "profilePic": "/assets/img/speakers/turtle.jpg",
+            "instagram": "ionicframework",
+            "twitter": "ionicframework",
+            "about": "Ted is a Turtle. Ted's interests include butterflies, skiing, and cupcakes.",
+            "title": "Software Engineer",
+            "location": "Everywhere",
+            "email": "ted@example.com",
+            "phone": "+1-541-754-3010",
+            "id": "13"
+        }
+    ],
+
+    "map": [{
+            "name": "Monona Terrace Convention Center",
+            "lat": 43.071584,
+            "lng": -89.38012,
+            "center": true
+        },
+        {
+            "name": "Ionic HQ",
+            "lat": 43.074395,
+            "lng": -89.381056
+        },
+        {
+            "name": "Afterparty - Brocach Irish Pub",
+            "lat": 43.07336,
+            "lng": -89.38335
+        }
+    ],
+
+    "tracks": [{
+            "name": "Angular",
+            "icon": "logo-angular"
+        },
+        {
+            "name": "Documentation",
+            "icon": "document"
+        },
+        {
+            "name": "Food",
+            "icon": "restaurant"
+        },
+        {
+            "name": "Ionic",
+            "icon": "logo-ionic"
+        },
+        {
+            "name": "Tooling",
+            "icon": "hammer"
+        },
+        {
+            "name": "Design",
+            "icon": "color-palette"
+        },
+        {
+            "name": "Services",
+            "icon": "cog"
+        },
+        {
+            "name": "Workshop",
+            "icon": "construct"
+        },
+        {
+            "name": "Communication",
+            "icon": "call"
+        },
+        {
+            "name": "Navigation",
+            "icon": "compass"
+        }
+    ]
+}
